@@ -1,5 +1,5 @@
 # ThanhDanhhh
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Tyler Dang, a VietNam Software Engineer. I’m currently working with JS, TS, React, React Native, Vue, NextJS, NestJS, Go, etc.  👋🏼:
 
 
 <Picture>
