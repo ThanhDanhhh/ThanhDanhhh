@@ -51,9 +51,15 @@
 # 👽 Where to find me 👽
 
 <div align=center>
+<span><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4285F4" alt="FaceBook logo" title="FaceBook" href="https://www.facebook.com/share/XkqjkZzmtUUZraPK/?mibextid=LQQJ4d" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram" href="https://www.instagram.com/thahdahhh_/profilecard/?igsh=eWYyZDJjdTJ2OG9y" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" href="https://www.linkedin.com/in/dang-thanh-danh-thanhdanh-a87a23220/" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter logo" title="Twitter" href="https://x.com/DanhDang273829" height="25" /></span>
 
 </div>
-
 
 
 
