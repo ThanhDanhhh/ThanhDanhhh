@@ -57,7 +57,7 @@
 &nbsp;
 <a  href="https://www.linkedin.com/in/dang-thanh-danh-thanhdanh-a87a23220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn"  height="25" /></a>
 &nbsp;
-<a href="https://x.com/DanhDang273829" target="blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=1DA1F2" alt="Twitter logo" title="Twitter"  height="25" /></a>
+<a href="https://x.com/DanhDang273829" target="blank"><img src="https://img.shields.io/badge/Twitter-282C34?logo=X&logoColor=1DA1F2" alt="Twitter logo" title="Twitter"  height="25" /></a>
 
 </div>
 
