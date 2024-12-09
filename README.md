@@ -1,7 +1,7 @@
 <!-- Tyeler Dang Dev -->
 # Hi Alien! I'm Tyler Dang,a VietNam software engineer 👋🏼:
 
-🛜 This is my Blogger website [tylerdang.dev](https://www.tylerdang.dev)<br> 👨🏼‍💻 working as a app developer since 2019<br>👨🏼‍💻 working as a app developer since 2023<br> 💻 I love writing code and learn anythings about it<br>📚 I’m currently learning how to build E-Commerce Website <br>
+🛜 This is my Blogger website [tylerdang.dev](https://www.tylerdang.dev)<br> 👨🏼‍💻 working as a app developer since 2019<br>👨🏼‍💻 working as a web developer since 2023<br> 💻 I love writing code and learn anythings about it<br>📚 I’m currently learning how to build E-Commerce Website <br>
   📫 How to reach me: <a href="mailto: danhtycos@gmail.com">danhtycos@gmail.com</a>
 
 # 🛠 Technologies and Tools 🛠
