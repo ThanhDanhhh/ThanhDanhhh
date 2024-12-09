@@ -1,7 +1,13 @@
+<!-- Tyeler Dang Dev -->
 # Hi Alien! I'm Tyler Dang,a VietNam software development engineer 👋🏼:
 
 🛜 This is my Blogger website [tylerdang.dev](https://www.tylerdang.dev)<br> 👨🏼‍💻 working as a web developer since 2019<br> 💻 I love writing code and learn anythings about it<br>📚 I’m currently learning how to build E-Commerce Website <br>
   📫 How to reach me: <a href="mailto: danhtycos@gmail.com">danhtycos@gmail.com</a>
+
+# 🛠 Technologies and Tools 🛠
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+
 
 
 <Picture>
