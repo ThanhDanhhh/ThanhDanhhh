@@ -32,6 +32,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=ffffff" alt="Notion logo" title="ESLint" height="25" /></span>
+&nbsp;
 <br>
  
 # 🔥 GitHub Stats 🔥
@@ -46,6 +48,11 @@
   </a>
 </div>
 
+# 👽 Where to find me 👽
+
+<div align=center>
+
+</div>
 
 
 
