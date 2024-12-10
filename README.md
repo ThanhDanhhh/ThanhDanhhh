@@ -70,7 +70,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </Picture>
 <!--
-**tobiasmeyhoefer/tobiasmeyhoefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tyledangdev/tylerdangdevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
